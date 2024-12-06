@@ -12,6 +12,7 @@
     justify-content: space-evenly;
     position: fixed;
     top: 0;
+    width: 100%; 
 }
 .nav-log{
     height: 50px;
@@ -276,3 +277,7 @@ background-color: rgb(44, 42, 42);
  .main-footer a:hover{
   text-decoration: underline;
  }
+
+
+
+ 
