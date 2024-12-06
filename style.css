@@ -10,6 +10,8 @@
     color: white;
     align-items: center;
     justify-content: space-evenly;
+    position: fixed;
+    top: 0;
 }
 .nav-log{
     height: 50px;
